@@ -69,3 +69,7 @@ With the following software and hardware list you can run all code files present
 
 - On page 133: at the bottom of the page, the book mentions `vertextShader`, this should be `vertexShader`
 
+cd source 
+npm install
+npm run build
+npm run serve
